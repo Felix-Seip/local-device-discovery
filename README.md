@@ -1,4 +1,4 @@
-# discover_devices
+# local-device-discovery
 
 A new Flutter project.
 
