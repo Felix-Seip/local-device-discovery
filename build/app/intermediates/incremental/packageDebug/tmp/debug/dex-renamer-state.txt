@@ -1,4 +1,0 @@
-#Thu Jun 20 22:24:53 CEST 2019
-base.0=/Users/felixseip/Documents/projects/apps/discover_devices/build/app/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex

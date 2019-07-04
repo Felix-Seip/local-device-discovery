@@ -1,4 +1,4 @@
-# discover_devices
+# iot_tutorial
 
 A new Flutter project.
 
